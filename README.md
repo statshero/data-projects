@@ -1,4 +1,4 @@
-# A list of data projects
+# A list of projects related to data 
 
 This is a simple list of projects I've worked on in the past related to data.
 
@@ -9,7 +9,7 @@ In *Show me the money* I analysed the complete data of the three biggest peer-to
 <a href="http://smtm.labs.theodi.org/" class="no-decor" target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/showmethemoney.png" alt="linkedin logo" width="529" height="295"></a>
 
-Tags: ``2013, peer-to-peer, R, analysis, visualisation, spreadsheet``
+Tags: ``2013, peer-to-peer, R, analysis, visualisation, project management``
 
 
 ## The Anonymisation Decision-Making Framework, an online course
@@ -19,4 +19,4 @@ Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guer
 <a href="http://theodi.github.io/ukan-course" class="no-decor" target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/ukan.png" alt="linkedin logo" width="529" height="295"></a>
 
-Tags: ``2015, anonymisation, governance, learning, teaching, spreadsheet``
+Tags: ``2015, anonymisation, governance, learning, project management, spreadsheet``
