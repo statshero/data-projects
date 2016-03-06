@@ -31,6 +31,16 @@ Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guer
 
 `2015, anonymisation, governance, learning, project management, spreadsheet`
 
+## Benchmarking open data automatically, a technical report
+
+A high-level overview of if and how we can evaluate and rank countries, organisations and projects, based on how well they use open data in different ways. As open data becomes more widespread and useful, so does the need for effective ways to analyse it. 
+
+<a href="https://theodi.org/guides/benchmarking-data-automatically" class="no-decor" target="_blank">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/benchmarking.png" alt="linkedin logo" width="529" height="295"></a>
+
+`2014, open data, benchmarking, report, recommendations`
+
+
 ## Open Rail Performance Indicator
 
 
@@ -52,5 +62,8 @@ Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guer
 
 * [A tutorial on how to import a HTML table into R](http://rpubs.com/statshero/opinion-polls). Actually, I find the visualisation part more interesting. 
 * [Cleaning up](https://github.com/statshero/wine-cellar) the dataset from the [annual statement on the Government Wine Cellar](https://www.gov.uk/government/publications/annual-statement-on-the-government-wine-cellar-for-the-financial-year-2013-to-14). Not a glamorous job but someone has to do it.
+* When I jumped on the train to comment on [Piketty's Capital](https://theodi.org/blog/pikettys-capital-changed-the-global-discussion-around-inequality-because-it-uses-great-data-now-make-it-open), I made some suggestions on how to make his charts better. For example, in the style of the Economist. 
+
+
 
 
