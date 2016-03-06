@@ -1,11 +1,10 @@
 # A list of projects related to data 
 
-This is a small selection of projects I've worked on in the past related to data. The images link to the project sites. Note that this only includes *public* projects.
+This is a small selection of projects I've worked on in the past related to data. The images link to the project sites. Note that this only includes *public* projects. A good, general thought piece of mine is [Data as culture: how will we live in a data driven society?](https://www.statslife.org.uk/opinion/1848-data-as-culture-how-will-we-live-in-a-data-driven-society)
 
 **Table of Contents**
 
-goes here
-
+Goes here, once I figured out how to make it automatically.
 
 ### _Show me the money_, a data project
 
@@ -37,7 +36,7 @@ A short project during my time at the Open Data Institute, where I analysed more
 
 There is a lot more where this came from... Here is an example: a [book chapter](https://issuu.com/designacademy/docs/_05_stressedout_issuu/26).  
 
-### How to prioritise open data to drive global development, a tool for global development
+### _How to prioritise open data to drive global development_, a tool for global development
 
 I designed the methodology and enjoyed classifying ~~case studies~~, ~~applications~~, *anecdata*. For each sector, we mapped out relevant datasets and examples of real-world open data applications. We then offer three goal options to help decision- and policy-makers select datasets to release as open data.
 
@@ -66,7 +65,7 @@ A high-level overview of if and how we can evaluate and rank countries, organisa
 `2014, open data, benchmarking, report, recommendations`
 
 
-### Open Rail Performance Indicator
+### The _Open Rail Performance Index_, a failed study
 
 An example of a failed study because we never managed to publish the results. 
 
@@ -78,7 +77,6 @@ An example of a failed study because we never managed to publish the results.
 ) possible with speed improvements of x60. This is an extension for the R package `clusterCons`. More information about the package can be found [here](http://cran.r-project.org/web/packages/clusterCons/index.html). It has now been removed, so I'm not sure what's going on. 
 * Atz, U. (2014). The tau of data: A new metric to assess the timeliness of data in catalogues. In _Conference for E-Democracy and Open Governement_ (p. 257). Available online at [http://project.opendatamonitor.eu/wp-content/uploads/dissemination/OpenDataMonitor_Publication_The-Tau-of-Data.pdf](http://project.opendatamonitor.eu/wp-content/uploads/dissemination/OpenDataMonitor_Publication_The-Tau-of-Data.pdf)
 * Atz, U. (2013). Evaluating experience sampling of stress in a single-subject research design. _Personal and ubiquitous computing_, 17(4), 639-652. Available online at [http://ulrichatz.eu/docs/atz-2013-experience-sampling.pdf](http://ulrichatz.eu/docs/atz-2013-experience-sampling.pdf) 
-* Shadbolt, N., Elliot, M., O'Hara, K., Atz, U., Tennison, J., Tudor, C., ... & Mackey, E. (2013). UK: anonymisation in the modern era: the UKAN's perspective. _Data Protection Law & Privacy_, 10(12), 8-9.
 * Enjoy the rabbit hole of econometrics in my Master's thesis: [Empirics in Biotechnology: How does public R&D support affect private R&D investments?](https://github.com/statshero/netzseite/raw/gh-pages/docs/diplomarbeit_biotech_ATZ.pdf)
 
 
