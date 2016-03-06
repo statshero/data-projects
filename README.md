@@ -1,6 +1,11 @@
 # A list of projects related to data 
 
-This is a simple list of projects I've worked on in the past related to data.
+This is a simple list of projects I've worked on in the past related to data. The images link to the project sites.
+
+**Table of Contents**
+
+goes here
+
 
 ## _Show me the money_, a data project
 
@@ -22,7 +27,7 @@ A short project during my time at the Open Data Institute, where I analysed more
 `2014, R, analysis, CSV, study`
 
 
-## The _anonymisation decision-Making framework_, an online course
+## The _anonymisation decision-making framework_, an online course
 
 Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guerrilla](https://www.linkedin.com/company/purple-guerrilla) I've managed and developed an online course as an introduction to anonymisation. The online learning aims to promote the decision-making framework and give data practitioners confidence when dealing with personal data.
 
@@ -44,6 +49,17 @@ A high-level overview of if and how we can evaluate and rank countries, organisa
 ## Open Rail Performance Indicator
 
 
+## Academic and boring technical stuff
+
+* Making [fast consensus clustering in R](https://github.com/statshero/consensusclustering
+) possible with speed improvements of x60. This is an extension for the R package `clusterCons`. More information about the package can be found [here](http://cran.r-project.org/web/packages/clusterCons/index.html). It has now been removed, so I'm not sure what's going on. 
+* Atz, U. (2014). The tau of data: A new metric to assess the timeliness of data in catalogues. In _Conference for E-Democracy and Open Governement_ (p. 257). Available online at [http://project.opendatamonitor.eu/wp-content/uploads/dissemination/OpenDataMonitor_Publication_The-Tau-of-Data.pdf](http://project.opendatamonitor.eu/wp-content/uploads/dissemination/OpenDataMonitor_Publication_The-Tau-of-Data.pdf)
+* Atz, U. (2013). Evaluating experience sampling of stress in a single-subject research design. _Personal and ubiquitous computing_, 17(4), 639-652. Available online at [http://ulrichatz.eu/docs/atz-2013-experience-sampling.pdf](http://ulrichatz.eu/docs/atz-2013-experience-sampling.pdf) 
+* Shadbolt, N., Elliot, M., O'Hara, K., Atz, U., Tennison, J., Tudor, C., ... & Mackey, E. (2013). UK: anonymisation in the modern era: the UKAN's perspective. _Data Protection Law & Privacy_, 10(12), 8-9.
+* Enjoy the rabbit hole of econometrics in my Master's thesis: [Empirics in Biotechnology: How does public R&D support affect private R&D investments?](https://github.com/statshero/netzseite/raw/gh-pages/docs/diplomarbeit_biotech_ATZ.pdf)
+
+
+
 
 ## On data visualisation
 
@@ -58,7 +74,7 @@ A high-level overview of if and how we can evaluate and rank countries, organisa
     * `2012, SPSS, visualisation, graphics, tools`
 
 
-## Some random fun projects, with data
+## Some more random fun projects, with data
 
 * [A tutorial on how to import a HTML table into R](http://rpubs.com/statshero/opinion-polls). Actually, I find the visualisation part more interesting. 
 * [Cleaning up](https://github.com/statshero/wine-cellar) the dataset from the [annual statement on the Government Wine Cellar](https://www.gov.uk/government/publications/annual-statement-on-the-government-wine-cellar-for-the-financial-year-2013-to-14). Not a glamorous job but someone has to do it.
