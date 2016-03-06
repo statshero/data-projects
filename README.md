@@ -2,7 +2,7 @@
 
 This is a simple list of projects I've worked on in the past related to data.
 
-## Show Me The Money, a data project
+## _Show me the money_, a data project
 
 In *Show me the money* I analysed the complete data of the three biggest peer-to-peer (P2P) platforms in the UK (Zopa, RateSetter, and Funding Circle) with almost 14 million loan parts. It provided the most comprehensive snapshot of the UK P2P market at the time of publication. We gained high-profile media coverage for this story and have direct evidence of change in the peer-to-peer sector.
 
@@ -12,9 +12,9 @@ In *Show me the money* I analysed the complete data of the three biggest peer-to
 `2013, peer-to-peer, R, analysis, visualisation, project management`
 
 
-## What is a CSV? A case study of CSVs on data.gov.uk
+## _What is a CSV? A case study of CSVs on data.gov.uk_, an elaborate blog post
 
-A short project during my time at the Open Data Institute, where I analysed more than 20,000 links to CSV files on data.gov.uk. Results: only around one third turned out to be machine-readable. A typical CSV is between 1kb-1mb in size and has around eight columns.
+A short project during my time at the Open Data Institute, where I analysed more than 20,000 links to CSV files on data.gov.uk. Results: only around one third turned out to be machine-readable. A typical CSV is between 1kb-1mb in size and has around eight columns. And I got to play around with [Gephi](https://gephi.org/). 
 
 <a href="https://theodi.org/blog/the-status-of-csvs-on-datagovuk" class="no-decor" target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/csv-study.png" alt="linkedin logo" width="529" height="295"></a>
@@ -22,7 +22,7 @@ A short project during my time at the Open Data Institute, where I analysed more
 `2014, R, analysis, CSV, study`
 
 
-## The Anonymisation Decision-Making Framework, an online course
+## The _anonymisation decision-Making framework_, an online course
 
 Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guerrilla](https://www.linkedin.com/company/purple-guerrilla) I've managed and developed an online course as an introduction to anonymisation. The online learning aims to promote the decision-making framework and give data practitioners confidence when dealing with personal data.
 
