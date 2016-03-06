@@ -27,7 +27,7 @@ A short project during my time at the Open Data Institute, where I analysed more
 
 ###  _A survey on the uses of quantified self_, a survey and presentation
 
-[presentation slides](https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf)
+The [presentation slides](https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf) give a brief overview about the findings. For me it was interesting to [play around with SPSS and R integration](https://github.com/statshero/qs-survey/), that is variable labels. There's also a nice integration with Google documents and R. I was particularly pleased when I reused code that was years old – and it worked.
 
 <a href="https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf" class="no-decor" target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/qs-survey.png" alt="linkedin logo" width="529" height="295"></a>
