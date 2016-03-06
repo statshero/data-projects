@@ -12,6 +12,16 @@ In *Show me the money* I analysed the complete data of the three biggest peer-to
 `2013, peer-to-peer, R, analysis, visualisation, project management`
 
 
+## What is a CSV? A case study of CSVs on data.gov.uk
+
+A short project during my time at the Open Data Institute, where I analysed more than 20,000 links to CSV files on data.gov.uk. Results: only around one third turned out to be machine-readable. A typical CSV is between 1kb-1mb in size and has around eight columns.
+
+<a href="https://theodi.org/blog/the-status-of-csvs-on-datagovuk" class="no-decor" target="_blank">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/csv-study.png" alt="linkedin logo" width="529" height="295"></a>
+
+`2014, R, analysis, CSV, study`
+
+
 ## The Anonymisation Decision-Making Framework, an online course
 
 Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guerrilla](https://www.linkedin.com/company/purple-guerrilla) I've managed and developed an online course as an introduction to anonymisation. The online learning aims to promote the decision-making framework and give data practitioners confidence when dealing with personal data.
@@ -20,6 +30,9 @@ Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guer
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/ukan.png" alt="linkedin logo" width="529" height="295"></a>
 
 `2015, anonymisation, governance, learning, project management, spreadsheet`
+
+## Open Rail Performance Indicator
+
 
 
 ## On data visualisation
@@ -37,7 +50,7 @@ Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guer
 
 ## Some random fun projects, with data
 
-* [A tutorial on how to import a HTML table into R](http://rpubs.com/statshero/opinion-polls)
-* Cleaning up the data in the [annual statement on the Government Wine Cellar](https://www.gov.uk/government/publications/annual-statement-on-the-government-wine-cellar-for-the-financial-year-2013-to-14)
+* [A tutorial on how to import a HTML table into R](http://rpubs.com/statshero/opinion-polls). Actually, I find the visualisation part more interesting. 
+* [Cleaning up](https://github.com/statshero/wine-cellar) the dataset from the [annual statement on the Government Wine Cellar](https://www.gov.uk/government/publications/annual-statement-on-the-government-wine-cellar-for-the-financial-year-2013-to-14). Not a glamorous job but someone has to do it.
 
 
