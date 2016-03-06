@@ -8,7 +8,7 @@ Goes here, once I figured out how to make it automatically.
 
 ### _Show me the money_, a data project
 
-In *Show me the money* I analysed the complete data of the three biggest peer-to-peer (P2P) platforms in the UK (Zopa, RateSetter, and Funding Circle) with almost 14 million loan parts. It provided the most comprehensive snapshot of the UK P2P market at the time of publication. We gained high-profile media coverage for this story and have direct evidence of change in the peer-to-peer sector.
+In *Show me the money* I analysed the complete data of the three biggest peer-to-peer (P2P) platforms in the UK: Zopa, RateSetter, and Funding Circle. The data contains almost 14 million loan parts. It provided the most comprehensive snapshot of the UK P2P market at the time of publication. We gained high-profile media coverage for this story and have direct evidence of change in the peer-to-peer sector.
 
 <a href="http://smtm.labs.theodi.org/" class="no-decor" target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/showmethemoney.png" alt="linkedin logo" width="529" height="295"></a>
