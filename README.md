@@ -1,6 +1,6 @@
 # A list of projects related to data 
 
-This is a simple list of projects I've worked on in the past related to data. The images link to the project sites. Note that this only includes *public* projects. I have worked on dozens if not hundreds projects that are commercial or private.
+This is a list of a small selection of projects I've worked on in the past related to data. The images link to the project sites. Note that this only includes *public* projects.
 
 **Table of Contents**
 
