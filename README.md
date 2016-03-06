@@ -4,17 +4,8 @@ This is a small selection of projects I've worked on in the past related to data
 
 **Table of Contents**
 
-1. [Show me the money, a data project](#)
-- [What is a CSV? A case study of CSVs on data.gov.uk, an elaborate blog post](#)
-- [A survey on the uses of quantified self, a survey and presentation](#)
-- [How to prioritise open data to drive global development, a tool for global development](#)
-- [The anonymisation decision-making framework, an online course](#)
-- [Benchmarking open data automatically, a technical report](#)
-- [Open Rail Performance Indicator](#)
-- [Academic and boring technical stuff](#)
-- [On data visualisation](#)
-- [Some more random fun projects, with data](#)
-		
+Goes here, once I figured out how to make it automatically.
+
 ### _Show me the money_, a data project
 
 In *Show me the money* I analysed the complete data of the three biggest peer-to-peer (P2P) platforms in the UK (Zopa, RateSetter, and Funding Circle) with almost 14 million loan parts. It provided the most comprehensive snapshot of the UK P2P market at the time of publication. We gained high-profile media coverage for this story and have direct evidence of change in the peer-to-peer sector.
