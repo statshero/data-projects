@@ -30,9 +30,21 @@ A short project during my time at the Open Data Institute, where I analysed more
 
 [presentation slides](https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf)
 
+<a href="https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf" class="no-decor" target="_blank">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/qs-survey.png" alt="linkedin logo" width="529" height="295"></a>
 
+`2014, quantified self, R, analysis, survey, presentation`
 
 There is a lot more where this came from... Here is an example: a [book chapter](https://issuu.com/designacademy/docs/_05_stressedout_issuu/26).  
+
+### How to prioritise open data to drive global development, a tool for global development
+
+I designed the methodology and enjoyed classifying ~~case studies~~, ~~applications~~, *anecdata*. For each sector, we mapped out relevant datasets and examples of real-world open data applications. We then offer three goal options to help decision- and policy-makers select datasets to release as open data.
+
+<a href="http://theodi.org/guides/prioritise-open-data-to-drive-global-development" class="no-decor" target="_blank">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/prioritise-opendata.png" alt="linkedin logo" width="529" height="295"></a>
+
+`2014, open data, report, spreadsheet, recommendation`
 
 
 ### The _anonymisation decision-making framework_, an online course
@@ -56,6 +68,9 @@ A high-level overview of if and how we can evaluate and rank countries, organisa
 
 ### Open Rail Performance Indicator
 
+An example of a failed study because we never managed to publish the results. 
+
+
 
 ### Academic and boring technical stuff
 
@@ -71,14 +86,14 @@ A high-level overview of if and how we can evaluate and rank countries, organisa
 
 ### On data visualisation
 
-* An introduction to the history of visualisation and many examples. Sadly it's hidden deep away on page 30 of an [OpenDataMonitor report](http://project.opendatamonitor.eu/wp-content/uploads/deliverable/OpenDataMonitor_611988_D2.3-Best-practice-visualisation,-dashboard-and-key-figures-report.pdf). I plan to make this more accessible in the future. 
+* An **introduction to the history of visualisation** and many examples. Sadly it's hidden deep away on page 30 of an [OpenDataMonitor report](http://project.opendatamonitor.eu/wp-content/uploads/deliverable/OpenDataMonitor_611988_D2.3-Best-practice-visualisation,-dashboard-and-key-figures-report.pdf). I plan to make this more accessible in the future. 
     * `2013, visualisation, history, report, best-practice` 
-* I run an R course on visualisation, in particular `ggplot2`.  
+* I run an **R course on visualisation**, in particular `ggplot2`. I think I'm not allowed to release the training material, so I err on the safe side.
 * A vain, self-referential [visualisation of temperature levels of 10 000 days](https://github.com/statshero/Weather_timeseries_BZ/blob/master/cal%2010000%20days.pdf) for my 10 000th day alive. 
     * `2013, R, ggplot2, time series, visualisation, pointless, fun`
-* [SCHEME_TUFTE](https://ideas.repec.org/c/boc/bocode/s457285.html): Stata module to provide a Tufte-inspired graphics scheme
+* [SCHEME_TUFTE](https://ideas.repec.org/c/boc/bocode/s457285.html): **Stata module** to provide a Tufte-inspired graphics scheme
     * `2011, Stata, Tufte, visualisation, graphics`
-* Some [templates](https://github.com/statshero/SPSS-tools) to make SPSS charts look more appealing
+* Some [templates](https://github.com/statshero/SPSS-tools) to make **SPSS charts** look more appealing
     * `2012, SPSS, visualisation, graphics, tools`
 
 
