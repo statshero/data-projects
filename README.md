@@ -10,7 +10,7 @@ Goes here, once I figured out how to make it automatically.
 
 In *Show me the money* I analysed all existing transactions of the three biggest peer-to-peer (P2P) platforms in the UK: Zopa, RateSetter, and Funding Circle. The data contains almost 14 million loan parts. It provided the most comprehensive snapshot of the UK P2P market at the time of publication. We gained high-profile media coverage for this story and have direct evidence of change in the peer-to-peer sector.
 
-<a href="http://smtm.labs.theodi.org/" class="no-decor" target="_blank">
+<a href="http://smtm.labs.theodi.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/showmethemoney.png" alt="" width="529" height="295"></a>
 
 `2013, peer-to-peer, R, analysis, visualisation, project management`
@@ -20,7 +20,7 @@ In *Show me the money* I analysed all existing transactions of the three biggest
 
 A joint project between  Deloitte and the Open Data Institute on how election data can help give insights into voting behaviour. I enjoyed this project a lot, as it was interesting, a fast turn-around and I got to apply various models among them [random forests](https://www.quora.com/How-does-randomization-in-a-random-forest-work).
 
-<a href="http://www.theguardian.com/news/datablog/2014/jun/02/how-open-data-can-help-shape-the-way-we-analyse-electoral-behaviour" class="no-decor" target="_blank">
+<a href="http://www.theguardian.com/news/datablog/2014/jun/02/how-open-data-can-help-shape-the-way-we-analyse-electoral-behaviour"  target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/democratic-engagement.png" alt="" width="529" height="295"></a>
 
 `2014, R, analysis, visualisation, elections`
@@ -30,7 +30,7 @@ A joint project between  Deloitte and the Open Data Institute on how election da
 
 A short project during my time at the Open Data Institute, where I analysed more than 20,000 links to CSV files on [data.gov.uk](http://data.gov.uk). Results: only around one third turned out to be machine-readable. A typical CSV is between 1kb-1mb in size and has around eight columns. And I got to play around with [Gephi](https://gephi.org/). 
 
-<a href="https://theodi.org/blog/the-status-of-csvs-on-datagovuk" class="no-decor" target="_blank">
+<a href="https://theodi.org/blog/the-status-of-csvs-on-datagovuk"  target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/csv-study.png" alt="" width="529" height="295"></a>
 
 `2014, R, analysis, CSV, study`
@@ -39,7 +39,7 @@ A short project during my time at the Open Data Institute, where I analysed more
 
 The [presentation slides](https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf) give a brief overview about the findings. For me it was interesting to [play around with SPSS and R integration](https://github.com/statshero/qs-survey/), that is variable labels. There's also a nice integration with Google documents and R. I was particularly pleased when I reused code that was years old – and it worked.
 
-<a href="https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf" class="no-decor" target="_blank">
+<a href="https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf"  target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/qs-survey.png" alt="" width="529" height="295"></a>
 
 `2014, quantified self, R, analysis, survey, presentation`
@@ -50,7 +50,7 @@ There is a lot more where this came from... Here is an example: a [book chapter]
 
 I designed the methodology and enjoyed classifying ~~case studies~~, ~~applications~~, *anecdata*. For each sector, we mapped out relevant datasets and examples of real-world open data applications. We then offer three goal options to help decision- and policy-makers select datasets to release as open data.
 
-<a href="http://theodi.org/guides/prioritise-open-data-to-drive-global-development" class="no-decor" target="_blank">
+<a href="http://theodi.org/guides/prioritise-open-data-to-drive-global-development"  target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/prioritise-opendata.png" alt="" width="529" height="295"></a>
 
 `2014, open data, report, spreadsheet, recommendation`
@@ -60,7 +60,7 @@ I designed the methodology and enjoyed classifying ~~case studies~~, ~~applicati
 
 Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guerrilla](https://www.linkedin.com/company/purple-guerrilla) I've managed and developed an online course as an introduction to anonymisation. The online learning aims to promote the decision-making framework and give data practitioners confidence when dealing with personal data.
 
-<a href="http://theodi.github.io/ukan-course" class="no-decor" target="_blank">
+<a href="http://theodi.github.io/ukan-course"  target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/ukan.png" alt="" width="529" height="295"></a>
 
 `2015, anonymisation, governance, learning, project management, spreadsheet`
@@ -69,7 +69,7 @@ Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guer
 
 A high-level overview of if and how we can evaluate and rank countries, organisations and projects, based on how well they use open data in different ways. As open data becomes more widespread and useful, so does the need for effective ways to analyse it. 
 
-<a href="https://theodi.org/guides/benchmarking-data-automatically" class="no-decor" target="_blank">
+<a href="https://theodi.org/guides/benchmarking-data-automatically"  target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/benchmarking.png" alt="" width="529" height="295"></a>
 
 `2014, open data, benchmarking, report, recommendations`
@@ -85,7 +85,7 @@ An example of a failed study because we never managed to publish the results. It
 `2014, open data, R, rail, benchmarking, report`
 
 
-### Academic and boring technical stuff
+### Academic and technical stuff
 
 * Making [fast consensus clustering in R](https://github.com/statshero/consensusclustering
 ) possible with speed improvements of x60. This is an extension for the R package `clusterCons`. More information about the package can be found [here](http://cran.r-project.org/web/packages/clusterCons/index.html). It has now been removed, so I'm not sure what's going on. 
