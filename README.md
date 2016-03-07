@@ -4,19 +4,19 @@ This is a selection of projects I've worked on in the past related to data. The 
 
 **Table of Contents**
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
+<!-- TOC depthFrom:3 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
 
-	1. [_Show me the money_, a data project](#show-me-the-money-a-data-project)
-	2. [_How open data can help shape the way we analyse electoral behaviour_, another data project](#how-open-data-can-help-shape-the-way-we-analyse-electoral-behaviour-another-data-project)
-	3. [_What is a CSV? A case study of CSVs on data.gov.uk_, an elaborate blog post](#what-is-a-csv-a-case-study-of-csvs-on-datagovuk-an-elaborate-blog-post)
-	4. [_A survey of the uses in quantified self_, a survey and presentation](#a-survey-of-the-uses-in-quantified-self-a-survey-and-presentation)
-	5. [_How to prioritise open data to drive global development_, a tool for global development](#how-to-prioritise-open-data-to-drive-global-development-a-tool-for-global-development)
-	6. [The _anonymisation decision-making framework_, an online course](#the-anonymisation-decision-making-framework-an-online-course)
-	7. [Benchmarking open data automatically, a technical report](#benchmarking-open-data-automatically-a-technical-report)
-	8. [The _Open Rail Performance Index_, a failed study](#the-open-rail-performance-index-a-failed-study)
-	9. [Academic and technical stuff](#academic-and-technical-stuff)
-	10. [On data visualisation](#on-data-visualisation)
-	11. [Some more random fun projects, with data](#some-more-random-fun-projects-with-data)
+1. [_Show me the money_, a data project](#show-me-the-money-a-data-project)
+2. [_How open data can help shape the way we analyse electoral behaviour_, another data project](#how-open-data-can-help-shape-the-way-we-analyse-electoral-behaviour-another-data-project)
+3. [_What is a CSV? A case study of CSVs on data.gov.uk_, an elaborate blog post](#what-is-a-csv-a-case-study-of-csvs-on-datagovuk-an-elaborate-blog-post)
+4. [_A survey of the uses in quantified self_, a survey and presentation](#a-survey-of-the-uses-in-quantified-self-a-survey-and-presentation)
+5. [_How to prioritise open data to drive global development_, a tool for global development](#how-to-prioritise-open-data-to-drive-global-development-a-tool-for-global-development)
+6. [The _anonymisation decision-making framework_, an online course](#the-anonymisation-decision-making-framework-an-online-course)
+7. [Benchmarking open data automatically, a technical report](#benchmarking-open-data-automatically-a-technical-report)
+8. [The _Open Rail Performance Index_, a failed study](#the-open-rail-performance-index-a-failed-study)
+9. [Academic and technical stuff](#academic-and-technical-stuff)
+10. [On data visualisation](#on-data-visualisation)
+11. [Some more random fun projects, with data](#some-more-random-fun-projects-with-data)
 
 <!-- /TOC -->
 
