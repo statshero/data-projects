@@ -108,7 +108,7 @@ An example of a failed study because we never managed to publish the results. It
 
 ### Some more random fun projects, with data
 
-* [A tutorial on how to import a HTML table into R](http://rpubs.com/statshero/opinion-polls). Actually, I find the visualisation part more interesting. 
+* [A tutorial on how to use R to access data on the web](https://theodi.org/blog/how-to-use-r-to-access-data-on-the-web) and [a tutorial on how to import a HTML table into R](http://rpubs.com/statshero/opinion-polls). Actually, I find the visualisation part most interesting. 
 * [Cleaning up](https://github.com/statshero/wine-cellar) the dataset from the [annual statement on the Government Wine Cellar](https://www.gov.uk/government/publications/annual-statement-on-the-government-wine-cellar-for-the-financial-year-2013-to-14). Not a glamorous job but someone has to do it.
 * When I jumped on the train to comment on [Piketty's Capital](https://theodi.org/blog/pikettys-capital-changed-the-global-discussion-around-inequality-because-it-uses-great-data-now-make-it-open), I made some suggestions on how to make his charts better. For example, in the style of the Economist. 
 * I run around ten workshops on anonymisation called *Save the Titanic* based on this [event](https://theodi.org/guides/save-the-titanic-handson-anonymisation-and-risk-control-of-publishing-open-data). Trust me when I say I know the **Titanic passenger data** inside-out.
