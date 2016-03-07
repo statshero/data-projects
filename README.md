@@ -88,6 +88,7 @@ An example of a failed study because we never managed to publish the results.
 * Atz, U. (2014). The tau of data: A new metric to assess the timeliness of data in catalogues. In _Conference for E-Democracy and Open Governement_ (p. 257). Available online at [http://project.opendatamonitor.eu/wp-content/uploads/dissemination/OpenDataMonitor_Publication_The-Tau-of-Data.pdf](http://project.opendatamonitor.eu/wp-content/uploads/dissemination/OpenDataMonitor_Publication_The-Tau-of-Data.pdf)
 * Atz, U. (2013). Evaluating experience sampling of stress in a single-subject research design. _Personal and ubiquitous computing_, 17(4), 639-652. Available online at [http://ulrichatz.eu/docs/atz-2013-experience-sampling.pdf](http://ulrichatz.eu/docs/atz-2013-experience-sampling.pdf) 
 * Enjoy the rabbit hole of econometrics in my Master's thesis: [Empirics in Biotechnology: How does public R&D support affect private R&D investments?](https://github.com/statshero/netzseite/raw/gh-pages/docs/diplomarbeit_biotech_ATZ.pdf)
+* A tiny collection of [R scripts](https://gist.github.com/statshero), but I am really proud of `row-sample`, a function to make analysing a random subset easier.
 
 
 
