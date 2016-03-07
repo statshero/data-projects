@@ -1,6 +1,6 @@
 # A list of projects related to data 
 
-This is a small selection of projects I've worked on in the past related to data. The images link to the project sites. Note that this only includes *public* projects. A good, general thought piece of mine is [Data as culture: how will we live in a data driven society?](https://www.statslife.org.uk/opinion/1848-data-as-culture-how-will-we-live-in-a-data-driven-society)
+This is a selection of projects I've worked on in the past related to data. The images link to the project sites. Note that this only includes *public* projects. A good, general thought piece of mine is [*Data as culture: how will we live in a data driven society?*](https://www.statslife.org.uk/opinion/1848-data-as-culture-how-will-we-live-in-a-data-driven-society)
 
 **Table of Contents**
 
@@ -28,14 +28,14 @@ A joint project between  Deloitte and the Open Data Institute on how election da
 
 ### _What is a CSV? A case study of CSVs on data.gov.uk_, an elaborate blog post
 
-A short project during my time at the Open Data Institute, where I analysed more than 20,000 links to CSV files on data.gov.uk. Results: only around one third turned out to be machine-readable. A typical CSV is between 1kb-1mb in size and has around eight columns. And I got to play around with [Gephi](https://gephi.org/). 
+A short project during my time at the Open Data Institute, where I analysed more than 20,000 links to CSV files on [data.gov.uk](http://data.gov.uk). Results: only around one third turned out to be machine-readable. A typical CSV is between 1kb-1mb in size and has around eight columns. And I got to play around with [Gephi](https://gephi.org/). 
 
 <a href="https://theodi.org/blog/the-status-of-csvs-on-datagovuk" class="no-decor" target="_blank">
 <img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/csv-study.png" alt="linkedin logo" width="529" height="295"></a>
 
 `2014, R, analysis, CSV, study`
 
-###  _A survey on the uses of quantified self_, a survey and presentation
+###  _A survey of the uses of quantified self_, a survey and presentation
 
 The [presentation slides](https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf) give a brief overview about the findings. For me it was interesting to [play around with SPSS and R integration](https://github.com/statshero/qs-survey/), that is variable labels. There's also a nice integration with Google documents and R. I was particularly pleased when I reused code that was years old – and it worked.
 
@@ -95,14 +95,10 @@ An example of a failed study because we never managed to publish the results.
 ### On data visualisation
 
 * An **introduction to the history of visualisation** and many examples. Sadly it's hidden deep away on page 30 of an [OpenDataMonitor report](http://project.opendatamonitor.eu/wp-content/uploads/deliverable/OpenDataMonitor_611988_D2.3-Best-practice-visualisation,-dashboard-and-key-figures-report.pdf). I plan to make this more accessible in the future. 
-    * `2013, visualisation, history, report, best-practice` 
 * I run an **R course on visualisation**, in particular `ggplot2`. I think I'm not allowed to release the training material, so I err on the safe side.
 * A vain, self-referential [visualisation of temperature levels of 10 000 days](https://github.com/statshero/Weather_timeseries_BZ/blob/master/cal%2010000%20days.pdf) for my 10 000th day alive. 
-    * `2013, R, ggplot2, time series, visualisation, pointless, fun`
 * [SCHEME_TUFTE](https://ideas.repec.org/c/boc/bocode/s457285.html): **Stata module** to provide a Tufte-inspired graphics scheme
-    * `2011, Stata, Tufte, visualisation, graphics`
 * Some [templates](https://github.com/statshero/SPSS-tools) to make **SPSS charts** look more appealing
-    * `2012, SPSS, visualisation, graphics, tools`
 
 
 ### Some more random fun projects, with data
