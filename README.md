@@ -11,8 +11,8 @@ This is a selection of projects I've worked on in the past related to data. The 
 3. [_What is a CSV? A case study of CSVs on data.gov.uk_, an elaborate blog post](#what-is-a-csv-a-case-study-of-csvs-on-datagovuk-an-elaborate-blog-post)
 4. [_A survey of the uses in quantified self_, a survey and presentation](#a-survey-of-the-uses-in-quantified-self-a-survey-and-presentation)
 5. [_How to prioritise open data to drive global development_, a tool for global development](#how-to-prioritise-open-data-to-drive-global-development-a-tool-for-global-development)
-6. [The _anonymisation decision-making framework_, an online course](#the-anonymisation-decision-making-framework-an-online-course)
-7. [Benchmarking open data automatically, a technical report](#benchmarking-open-data-automatically-a-technical-report)
+6. [The _Anonymisation Decision-making Framework_, an online course](#the-anonymisation-decision-making-framework-an-online-course)
+7. [_Benchmarking open data automatically_, a technical report](#benchmarking-open-data-automatically-a-technical-report)
 8. [The _Open Rail Performance Index_, a failed study](#the-open-rail-performance-index-a-failed-study)
 9. [Academic and technical stuff](#academic-and-technical-stuff)
 10. [On data visualisation](#on-data-visualisation)
@@ -70,7 +70,7 @@ I designed the methodology and enjoyed classifying ~~case studies~~, ~~applicati
 `2014, open data, report, spreadsheet, recommendation`
 
 
-### The _anonymisation decision-making framework_, an online course
+### The _Anonymisation Decision-making Framework_, an online course
 
 Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guerrilla](https://www.linkedin.com/company/purple-guerrilla) I've managed and developed an online course as an introduction to anonymisation. The online learning aims to promote the decision-making framework and give data practitioners confidence when dealing with personal data.
 
@@ -79,7 +79,7 @@ Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guer
 
 `2015, anonymisation, governance, learning, project management, spreadsheet`
 
-### Benchmarking open data automatically, a technical report
+### _Benchmarking open data automatically_, a technical report
 
 A high-level overview of if and how we can evaluate and rank countries, organisations and projects, based on how well they use open data in different ways. As open data becomes more widespread and useful, so does the need for effective ways to analyse it.
 
