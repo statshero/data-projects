@@ -35,7 +35,7 @@ A short project during my time at the Open Data Institute, where I analysed more
 
 `2014, R, analysis, CSV, study`
 
-###  _A survey of the uses of quantified self_, a survey and presentation
+###  _A survey of the uses in quantified self_, a survey and presentation
 
 The [presentation slides](https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf) give a brief overview about the findings. For me it was interesting to [play around with SPSS and R integration](https://github.com/statshero/qs-survey/), that is variable labels. There's also a nice integration with Google documents and R. I was particularly pleased when I reused code that was years old – and it worked.
 
