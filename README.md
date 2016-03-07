@@ -16,6 +16,16 @@ In *Show me the money* I analysed the complete data of the three biggest peer-to
 `2013, peer-to-peer, R, analysis, visualisation, project management`
 
 
+### _How open data can help shape the way we analyse electoral behaviour_, another data project
+
+A joint project between  Deloitte and the Open Data Institute on how election data can help give insights into voting behaviour. I enjoyed this project a lot, as it was interesting, a fast turn-around and I got to apply various models among them [random forests](https://www.quora.com/How-does-randomization-in-a-random-forest-work).
+
+<a href="http://www.theguardian.com/news/datablog/2014/jun/02/how-open-data-can-help-shape-the-way-we-analyse-electoral-behaviour" class="no-decor" target="_blank">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/democratic-engagement.png" alt="linkedin logo" width="529" height="295"></a>
+
+`2014, R, analysis, visualisation, elections`
+
+
 ### _What is a CSV? A case study of CSVs on data.gov.uk_, an elaborate blog post
 
 A short project during my time at the Open Data Institute, where I analysed more than 20,000 links to CSV files on data.gov.uk. Results: only around one third turned out to be machine-readable. A typical CSV is between 1kb-1mb in size and has around eight columns. And I got to play around with [Gephi](https://gephi.org/). 
