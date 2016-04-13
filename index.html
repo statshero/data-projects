@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Making data useful by statshero</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Making data useful</h1>
+      <h2 class="project-tagline">Ulrich&#39;s list of data projects</h2>
+      <a href="https://github.com/statshero/data-projects" class="btn">View on GitHub</a>
+      <a href="https://github.com/statshero/data-projects/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/statshero/data-projects/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h1>
+<a id="a-list-of-projects-related-to-data" class="anchor" href="#a-list-of-projects-related-to-data" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>A list of projects related to data</h1>
+
+<p>This is a selection of projects I've worked on in the past related to data. The images link to the project sites. Note that this only includes <em>public</em> projects. A good, general thought piece of mine is <a href="https://www.statslife.org.uk/opinion/1848-data-as-culture-how-will-we-live-in-a-data-driven-society">Data as culture: how will we live in a data driven society?</a></p>
+
+<p><strong>Table of Contents</strong></p>
+
+
+
+<ol>
+<li><a href="#show-me-the-money-a-data-project"><em>Show me the money</em>, a data project</a></li>
+<li><a href="#how-open-data-can-help-shape-the-way-we-analyse-electoral-behaviour-another-data-project"><em>How open data can help shape the way we analyse electoral behaviour</em>, another data project</a></li>
+<li><a href="#what-is-a-csv-a-case-study-of-csvs-on-datagovuk-an-elaborate-blog-post"><em>What is a CSV? A case study of CSVs on data.gov.uk</em>, an elaborate blog post</a></li>
+<li><a href="#a-survey-of-the-uses-in-quantified-self-a-survey-and-presentation"><em>A survey of the uses in quantified self</em>, a survey and presentation</a></li>
+<li><a href="#how-to-prioritise-open-data-to-drive-global-development-a-tool-for-global-development"><em>How to prioritise open data to drive global development</em>, a tool for global development</a></li>
+<li><a href="#the-anonymisation-decision-making-framework-an-online-course">The <em>Anonymisation Decision-Making Framework</em>, an online course</a></li>
+<li><a href="#benchmarking-open-data-automatically-a-technical-report"><em>Benchmarking open data automatically</em>, a technical report</a></li>
+<li><a href="#the-open-rail-performance-index-a-failed-study">The <em>Open Rail Performance Index</em>, a failed study</a></li>
+<li><a href="#academic-and-technical-stuff">Academic and technical stuff</a></li>
+<li><a href="#on-data-visualisation">On data visualisation</a></li>
+<li><a href="#some-more-random-fun-projects-with-data">Some more random fun projects, with data</a></li>
+</ol>
+
+
+
+<h3>
+<a id="show-me-the-money-a-data-project" class="anchor" href="#show-me-the-money-a-data-project" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>Show me the money</em>, a data project</h3>
+
+<p>In <em>Show me the money</em> I analysed all existing transactions of the three biggest peer-to-peer (P2P) platforms in the UK: Zopa, RateSetter, and Funding Circle. The data contains almost 14 million loan parts. It provided the most comprehensive snapshot of the UK P2P market at the time of publication. We gained high-profile media coverage for this story and have direct evidence of change in the peer-to-peer sector. Nice cartogram!</p>
+
+<p><a href="http://smtm.labs.theodi.org/">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/showmethemoney.png" alt="" width="529" height="295"></a></p>
+
+<p><code>2013, peer-to-peer, R, analysis, visualisation, project management</code></p>
+
+<h3>
+<a id="how-open-data-can-help-shape-the-way-we-analyse-electoral-behaviour-another-data-project" class="anchor" href="#how-open-data-can-help-shape-the-way-we-analyse-electoral-behaviour-another-data-project" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>How open data can help shape the way we analyse electoral behaviour</em>, another data project</h3>
+
+<p>A joint project between  Deloitte and the Open Data Institute on how election data can help give insights into voting behaviour. I enjoyed this project a lot, as it was interesting, a fast turn-around and I got to apply various models among them <a href="https://www.quora.com/How-does-randomization-in-a-random-forest-work">random forests</a>.</p>
+
+<p><a href="http://www.theguardian.com/news/datablog/2014/jun/02/how-open-data-can-help-shape-the-way-we-analyse-electoral-behaviour">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/democratic-engagement.png" alt="" width="529" height="295"></a></p>
+
+<p><code>2014, R, analysis, visualisation, elections</code></p>
+
+<h3>
+<a id="what-is-a-csv-a-case-study-of-csvs-on-datagovuk-an-elaborate-blog-post" class="anchor" href="#what-is-a-csv-a-case-study-of-csvs-on-datagovuk-an-elaborate-blog-post" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>What is a CSV? A case study of CSVs on data.gov.uk</em>, an elaborate blog post</h3>
+
+<p>A short project during my time at the Open Data Institute, where I analysed more than 20,000 links to CSV files on <a href="http://data.gov.uk">data.gov.uk</a>. Results: only around one third turned out to be machine-readable. A typical CSV is between 1kb-1mb in size and has around eight columns. And I got to play around with <a href="https://gephi.org/">Gephi</a>.</p>
+
+<p><a href="https://theodi.org/blog/the-status-of-csvs-on-datagovuk">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/csv-study.png" alt="" width="529" height="295"></a></p>
+
+<p><code>2014, R, analysis, CSV, study</code></p>
+
+<h3>
+<a id="a-survey-of-the-uses-in-quantified-self-a-survey-and-presentation" class="anchor" href="#a-survey-of-the-uses-in-quantified-self-a-survey-and-presentation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>A survey of the uses in quantified self</em>, a survey and presentation</h3>
+
+<p>The <a href="https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf">presentation slides</a> give a brief overview about the findings. For me it was interesting to <a href="https://github.com/statshero/qs-survey/">play around with SPSS and R integration</a>, that is variable labels. There's also a nice integration with Google documents and R. I was particularly pleased when I reused code that was years old – and it worked.</p>
+
+<p><a href="https://github.com/londonqs/qs/blob/master/meetup-content/2014-02/Survey%20overview.pdf">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/qs-survey.png" alt="" width="529" height="295"></a></p>
+
+<p><code>2014, quantified self, R, analysis, survey, presentation</code></p>
+
+<p>There is a lot more where this came from... Here is an example: a <a href="https://issuu.com/designacademy/docs/_05_stressedout_issuu/26">book chapter</a>.  </p>
+
+<h3>
+<a id="how-to-prioritise-open-data-to-drive-global-development-a-tool-for-global-development" class="anchor" href="#how-to-prioritise-open-data-to-drive-global-development-a-tool-for-global-development" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>How to prioritise open data to drive global development</em>, a tool for global development</h3>
+
+<p>I designed the methodology and enjoyed classifying <del>case studies</del>, <del>applications</del>, <em>anecdata</em>. For each sector, we mapped out relevant datasets and examples of real-world open data applications. We then offer three goal options to help decision- and policy-makers select datasets to release as open data.</p>
+
+<p><a href="http://theodi.org/guides/prioritise-open-data-to-drive-global-development">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/prioritise-opendata.png" alt="" width="529" height="295"></a></p>
+
+<p><code>2014, open data, report, spreadsheet, recommendation</code></p>
+
+<h3>
+<a id="the-anonymisation-decision-making-framework-an-online-course" class="anchor" href="#the-anonymisation-decision-making-framework-an-online-course" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>The <em>Anonymisation Decision-Making Framework</em>, an online course</h3>
+
+<p>Together with the <a href="http://ukanon.net">UK Anonymisation Network</a> and <a href="https://www.linkedin.com/company/purple-guerrilla">Purple Guerrilla</a> I've managed and developed an online course as an introduction to anonymisation. The online learning aims to promote the decision-making framework and give data practitioners confidence when dealing with personal data.</p>
+
+<p><a href="http://theodi.github.io/ukan-course">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/ukan.png" alt="" width="529" height="295"></a></p>
+
+<p><code>2015, anonymisation, governance, learning, project management, spreadsheet</code></p>
+
+<h3>
+<a id="benchmarking-open-data-automatically-a-technical-report" class="anchor" href="#benchmarking-open-data-automatically-a-technical-report" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>Benchmarking open data automatically</em>, a technical report</h3>
+
+<p>A high-level overview of if and how we can evaluate and rank countries, organisations and projects, based on how well they use open data in different ways. As open data becomes more widespread and useful, so does the need for effective ways to analyse it.</p>
+
+<p><a href="https://theodi.org/guides/benchmarking-data-automatically">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/benchmarking.png" alt="" width="529" height="295"></a></p>
+
+<p><code>2014, open data, benchmarking, report, recommendations</code></p>
+
+<h3>
+<a id="the-open-rail-performance-index-a-failed-study" class="anchor" href="#the-open-rail-performance-index-a-failed-study" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>The <em>Open Rail Performance Index</em>, a failed study</h3>
+
+<p>An example of a failed study because we never managed to publish the results. It was titled <em>How the UK could gain up to £387 million per year</em> and then it got political. The upshot: I learned a lot about R, the train industry and the value of travel time savings.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Self-censorship">
+<img src="https://raw.githubusercontent.com/statshero/data-projects/master/assets/historic-passenger-numbers.png" alt="" width="880" height="220"></a></p>
+
+<p><code>2014, open data, R, rail, benchmarking, report</code></p>
+
+<h3>
+<a id="academic-and-technical-stuff" class="anchor" href="#academic-and-technical-stuff" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Academic and technical stuff</h3>
+
+<ul>
+<li>Making <a href="https://github.com/statshero/consensusclustering">fast consensus clustering in R</a> possible with speed improvements of x60. This is an extension for the R package <code>clusterCons</code>. More information about the package can be found <a href="http://cran.r-project.org/web/packages/clusterCons/index.html">here</a>. It has now been removed, so I'm not sure what's going on.</li>
+<li>Atz, U. (2014). The tau of data: A new metric to assess the timeliness of data in catalogues. In <em>Conference for E-Democracy and Open Government</em> (p. 257). Available online at <a href="http://project.opendatamonitor.eu/wp-content/uploads/dissemination/OpenDataMonitor_Publication_The-Tau-of-Data.pdf">http://project.opendatamonitor.eu/wp-content/uploads/dissemination/OpenDataMonitor_Publication_The-Tau-of-Data.pdf</a>
+</li>
+<li>Atz, U. (2013). Evaluating experience sampling of stress in a single-subject research design. <em>Personal and Ubiquitous Computing</em>, 17(4), 639-652. Available online at <a href="http://ulrichatz.eu/docs/atz-2013-experience-sampling.pdf">http://ulrichatz.eu/docs/atz-2013-experience-sampling.pdf</a>
+</li>
+<li>Enjoy the rabbit hole of econometrics in my Master's thesis: <a href="https://github.com/statshero/netzseite/raw/gh-pages/docs/diplomarbeit_biotech_ATZ.pdf">Empirics in Biotechnology: How does public R&amp;D support affect private R&amp;D investments?</a>
+</li>
+<li>A tiny collection of <a href="https://gist.github.com/statshero">R scripts</a>, but I am really proud of <code>row-sample</code>, a function to make analysing a random subset easier.</li>
+</ul>
+
+<h3>
+<a id="on-data-visualisation" class="anchor" href="#on-data-visualisation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>On data visualisation</h3>
+
+<ul>
+<li>An <strong>introduction to the history of visualisation</strong> and many examples. Sadly it's hidden deep away on page 30 of an <a href="http://project.opendatamonitor.eu/wp-content/uploads/deliverable/OpenDataMonitor_611988_D2.3-Best-practice-visualisation,-dashboard-and-key-figures-report.pdf">OpenDataMonitor report</a>. I plan to make this more accessible in the future.</li>
+<li>I run an <strong>R course on visualisation</strong>, in particular <code>ggplot2</code>. I think I'm not allowed to release the training material, so I err on the safe side.</li>
+<li>A vain, self-referential <a href="https://github.com/statshero/Weather_timeseries_BZ/blob/master/cal%2010000%20days.pdf">visualisation of temperature levels of 10 000 days</a> for my 10 000th day alive.</li>
+<li>
+<a href="https://ideas.repec.org/c/boc/bocode/s457285.html">SCHEME_TUFTE</a>: <strong>Stata module</strong> to provide a Tufte-inspired graphics scheme</li>
+<li>Some <a href="https://github.com/statshero/SPSS-tools">templates</a> to make <strong>SPSS charts</strong> look more appealing</li>
+</ul>
+
+<h3>
+<a id="some-more-random-fun-projects-with-data" class="anchor" href="#some-more-random-fun-projects-with-data" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Some more random fun projects, with data</h3>
+
+<ul>
+<li>
+<a href="https://theodi.org/blog/how-to-use-r-to-access-data-on-the-web">A tutorial on how to use R to access data on the web</a> and <a href="http://rpubs.com/statshero/opinion-polls">a tutorial on how to import a HTML table into R</a>. Actually, I find the visualisation part most interesting.</li>
+<li>
+<a href="https://github.com/statshero/wine-cellar">Cleaning up</a> the dataset from the <a href="https://www.gov.uk/government/publications/annual-statement-on-the-government-wine-cellar-for-the-financial-year-2013-to-14">annual statement on the Government Wine Cellar</a>. Not a glamorous job but someone has to do it.</li>
+<li>When I jumped on the train to comment on <a href="https://theodi.org/blog/pikettys-capital-changed-the-global-discussion-around-inequality-because-it-uses-great-data-now-make-it-open">Piketty's Capital</a>, I made some suggestions on how to make his charts better. For example, in the style of the Economist.</li>
+<li>I run around ten workshops on anonymisation called <em>Save the Titanic</em> based on this <a href="https://theodi.org/guides/save-the-titanic-handson-anonymisation-and-risk-control-of-publishing-open-data">event</a>. Trust me when I say I know the <strong>Titanic passenger data</strong> inside-out.</li>
+<li>And to conclude on a philosophical note: <a href="https://theodi.org/blog/what-is-data-exploring-the-question-that-no-one-asks">What Is Data? Exploring The Question That No One Asks</a>
+</li>
+</ul>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/statshero/data-projects">Making data useful</a> is maintained by <a href="https://github.com/statshero">statshero</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
