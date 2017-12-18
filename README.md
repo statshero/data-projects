@@ -1,6 +1,6 @@
 # A list of projects related to data
 
-This is a selection of projects I've worked on in the past related to data. The images link to the project sites. Note that this only includes *public* projects. A good, general thought piece of mine is <a href="https://www.statslife.org.uk/opinion/1848-data-as-culture-how-will-we-live-in-a-data-driven-society" target="_blank">Data as culture: how will we live in a data driven society?</a>
+This is a selection of projects I've worked on in the past related to data. The images link to the project sites. Note that this only includes *public* projects. A good, general thought piece of mine is <a href="https://www.statslife.org.uk/features/1848-data-as-culture-how-will-we-live-in-a-data-driven-society" target="_blank">Data as culture: how will we live in a data driven society?</a>
 
 **Table of Contents**
 
