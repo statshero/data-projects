@@ -74,7 +74,7 @@ I designed the methodology and enjoyed classifying ~~case studies~~, ~~applicati
 
 Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guerrilla](https://www.linkedin.com/company/purple-guerrilla) I've managed and developed an online course as an introduction to anonymisation. The online learning aims to promote the decision-making framework and give data practitioners confidence when dealing with personal data.
 
-<a href="http://theodi.github.io/ukan-course"  target="_blank">
+<a href="http://statzhero.github.io/ukan-course"  target="_blank">
 <img src="https://raw.githubusercontent.com/statzhero/data-projects/master/assets/ukan.png" alt="" width="529" height="295"></a>
 
 `2015, anonymisation, governance, learning, project management, spreadsheet`
