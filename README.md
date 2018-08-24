@@ -44,7 +44,7 @@ A joint project between  Deloitte and the Open Data Institute on how election da
 
 A short project during my time at the Open Data Institute, where I analysed more than 20,000 links to CSV files on [data.gov.uk](http://data.gov.uk). Results: only around one third turned out to be machine-readable. A typical CSV is between 1kb-1mb in size and has around eight columns. And I got to play around with <a href="https://gephi.org/" target="_blank">Gephi</a>.
 
-<a href="https://theodi.org/blog/the-status-of-csvs-on-datagovuk"  target="_blank">
+<a href="https://theodi.org/article/what-is-a-csv-a-case-study-of-csvs-on-data-gov-uk/"  target="_blank">
 <img src="https://raw.githubusercontent.com/statzhero/data-projects/master/assets/csv-study.png" alt="" width="529" height="295"></a>
 
 `2014, R, analysis, CSV, study`
