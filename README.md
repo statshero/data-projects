@@ -83,7 +83,7 @@ Together with the [UK Anonymisation Network](http://ukanon.net) and [Purple Guer
 
 A high-level overview of if and how we can evaluate and rank countries, organisations and projects, based on how well they use open data in different ways. As open data becomes more widespread and useful, so does the need for effective ways to analyse it.
 
-<a href="https://theodi.org/guides/benchmarking-data-automatically"  target="_blank">
+<a href="https://theodi.org/article/benchmarking-open-data-automatically/"  target="_blank">
 <img src="https://raw.githubusercontent.com/statzhero/data-projects/master/assets/benchmarking.png" alt="" width="529" height="295"></a>
 
 `2014, open data, benchmarking, report, recommendations`
