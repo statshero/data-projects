@@ -91,7 +91,7 @@ A high-level overview of if and how we can evaluate and rank countries, organisa
 
 ### The _Open Rail Performance Index_, a failed study
 
-An example of a failed study because we never managed to publish the results. It was titled *How the UK could gain up to £387 million per year* and then it got political. The upshot: I learned a lot about R, the train industry and the value of travel time savings.
+An example of a failed study because we never managed to publish the results. Not everything is always a success, and I hope others can related to this. The study was titled *How the UK could gain up to £387 million per year* and then it got political. The upshot: I learned a lot about R, the train industry and the value of travel time savings.
 
 <a href="https://en.wikipedia.org/wiki/Self-censorship" target="_blank">
 <img src="https://raw.githubusercontent.com/statzhero/data-projects/master/assets/historic-passenger-numbers.png" alt="" width="880" height="220"></a>
